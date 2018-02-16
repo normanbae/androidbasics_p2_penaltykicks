@@ -3,7 +3,7 @@
     <string name="team_a">Team A</string>
     <string name="team_b">Team B</string>
     <string name="starting_score">0 of 0</string>
-    <string name="of"> of </string>
+    <string name="of">" of "</string>
     <string name="goal">goal</string>
     <string name="miss">miss</string>
     <string name="reset_a">reset for team a</string>
